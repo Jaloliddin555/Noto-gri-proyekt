@@ -1,0 +1,229 @@
+.bola{
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 22px 27.8px 0px rgba(255, 249, 249, 0.25);
+background: rgb(50, 251, 0);
+margin-right: 271px;
+color: rgb(255, 6, 6);
+font-family: "Inter";
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+text-align: left;
+}
+.bola1{
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 22px 27.8px 0px rgba(255, 249, 249, 0.25);
+background: rgb(50, 251, 0);
+margin-right: 271px;
+color: rgb(255, 6, 6);
+font-family: "Inter";
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+text-align: left;
+}
+.bola2{
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 22px 27.8px 0px rgba(255, 249, 249, 0.25);
+background: rgb(50, 251, 0);
+margin-right: 271px;
+color: rgb(255, 6, 6);
+font-family: "Inter";
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+text-align: left;
+}
+.nevara{
+    position: absolute;
+    bottom: 160px;
+    left: 100px;
+    width: 300px;
+    height: 240px;
+    box-shadow: 0px 18px 26.5px 0px rgba(251, 0, 0, 0.25);
+background: rgb(247, 1, 1);
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+text-align: center;
+text-shadow: 0px 4px 7.4px rgb(255, 255, 255);
+}
+.nevara1{
+    position: absolute;
+bottom: 192px;
+left: 565px;
+    width: 411px;
+    height: 210px;
+    border-radius: 100px;
+    box-shadow: 0px 18px 26.5px 0px rgba(251, 0, 0, 0.25);
+    background: rgb(247, 1, 1);
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: center;
+    text-shadow: 0px 4px 7.4px rgb(255, 255, 255);
+}
+.nevara2{
+    position: absolute;
+    bottom: 160px;
+    left: 1140px;
+    width: 300px;
+    height: 240px;
+    box-shadow: 0px 18px 26.5px 0px rgba(251, 0, 0, 0.25);
+background: rgb(247, 1, 1);
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+text-align: center;
+text-shadow: 0px 4px 7.4px rgb(255, 255, 255);
+padding-top: px;
+}
+.ota{
+    position: relative;
+    display: flex;
+    gap: 50px;
+    width: 1850px;
+}
+.container{
+    max-width: 1250px;
+    width: 100%;
+    margin: 200px auto;
+}
+section{
+    background-image: url("./img/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 2280px;
+    padding-top: 36px;
+}
+.div{
+
+    border-radius: 30px;
+    box-shadow: 16px 18px 28px 0px rgba(255, 255, 255, 0.25);
+background: rgb(255, 255, 255);
+width: 602px;
+height: 75px;
+margin: 0 auto;
+}
+.h1{
+    color: rgb(0, 0, 0);
+    font-family: "Inter";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    text-align: center;
+}
+.header{
+    background: rgb(0, 0, 0);
+    height: 169px;    display: flex;
+    width: 2275px;
+}
+.p{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+margin-top: 80px;
+margin-right: 275px;
+}
+.p1{
+    padding-top: 80px;
+}
+.p2{
+    padding-top: 180px;
+    padding-left: 56px;
+}
+.header__img{
+    margin-right: 330px;
+    margin-left: 100px;
+    margin-top: 55px;
+    margin-bottom: 36px;
+}
+.h1__1{
+    border-radius: 30px;
+box-shadow: 16px 18px 28px 0px rgba(255, 255, 255, 0.25);
+background: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+text-align: center;
+}
+.div{
+    margin-bottom: 127px;
+}
+.section{
+    background: rgb(0, 0, 0);
+}
+.div__boss{
+    display: flex;
+    justify-content: space-evenly;
+}
+.div1{
+    width: 368px;
+    height: 332px;
+    flex-wrap: wrap;
+    margin-left: 87px;
+    margin-bottom: 60px;
+}
+.h3{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+margin-left: 118px;
+margin-right: 118px;
+}
+.p3{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+width: 271px;
+margin-left: 52px;
+margin-bottom: 72px;
+margin-right: 45px;
+}
+.div1{
+    background: rgb(123, 37, 37);
+    margin-left: 87px;
+    margin-right: 88px;
+}
+.img1{
+    padding-top: 50px;
+    padding-left: 26px;
+    padding-right: 26px;
+}
+.img2{
+    padding-top: 20px;
+    padding-left: 26px;
+    padding-right: 26px;
+}
+.footer{
+    background: rgb(0, 0, 0);
+    height: 169px;  
+  display: flex;
+    width: 2275px;
+}
+
+.footer__img{
+ margin-right: 709px;
+ margin-left: 100px;
+ margin-top: 55px;
+ margin-bottom: 36px;
+}
